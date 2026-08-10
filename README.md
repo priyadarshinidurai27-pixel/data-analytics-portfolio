@@ -329,3 +329,177 @@ Verify outputs.
 This project is created for educational and academic purposes.
 
 Feel free to use and modify it for learning and research.
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+# 📊 Cashflow Guardian 360 Dashboard
+
+A professional **Cashflow Guardian 360 Dashboard** developed using **Microsoft Excel** to analyze invoice data, payment status, outstanding amounts, and financial risk.
+
+The project transforms raw financial data into meaningful **KPIs, interactive charts, and dashboard insights** to support better financial monitoring and decision-making.
+
+---
+
+## 🎯 Project Objectives
+
+- Monitor total invoices
+- Analyze total invoice value
+- Track paid and unpaid invoices
+- Identify overdue invoices
+- Monitor outstanding amounts
+- Analyze customer payment behavior
+- Identify high-risk invoices
+- Analyze risk levels
+- Generate financial reports
+- Support data-driven decision making
+
+---
+
+## 🛠️ Tools & Technologies
+
+- **Microsoft Excel**
+- **Excel Formulas**
+- **Pivot Tables**
+- **Pivot Charts**
+- **Slicers**
+- **Conditional Formatting**
+- **Sorting & Filtering**
+- **Data Validation**
+- **Dashboard Design**
+
+---
+
+## 📂 Project Structure
+
+### 📄 Raw Data
+Contains invoice-level data used for analysis and dashboard creation.
+
+### 📊 Dashboard
+Interactive dashboard containing KPI cards, charts, filters, and financial insights.
+
+---
+
+## 📌 Key Performance Indicators
+
+- **Total Invoices**
+- **Total Invoice Value**
+- **Paid Invoices**
+- **Unpaid Invoices**
+- **Overdue Invoices**
+- **Outstanding Amount**
+- **High Risk Invoices**
+- **Critical Risk Invoices**
+- **Medium Risk Invoices**
+
+---
+
+## 📈 Dashboard Features
+
+### 💰 Invoice Analysis
+
+- Total invoice count
+- Total invoice amount
+- Customer-wise invoice analysis
+- Invoice status analysis
+
+### 💳 Payment Analysis
+
+- Paid invoices
+- Unpaid invoices
+- Overdue invoices
+- Outstanding payments
+
+### ⚠️ Risk Analysis
+
+- High Risk
+- Medium Risk
+- Critical Risk
+- Risk-level distribution
+
+### 📊 Interactive Dashboard
+
+- KPI Cards
+- Charts
+- Slicers
+- Filters
+- Dynamic summaries
+
+---
+
+## 🧮 Excel Functions Used
+
+- **SUM**
+- **SUMIF**
+- **SUMIFS**
+- **COUNT**
+- **COUNTIF**
+- **COUNTIFS**
+- **IF**
+- **IFERROR**
+- **XLOOKUP**
+- **FILTER**
+- **SORT**
+- **SORTBY**
+- **UNIQUE**
+- **TEXT**
+- **TODAY**
+
+---
+
+## 📊 Excel Features Used
+
+- **Pivot Tables**
+- **Pivot Charts**
+- **Slicers**
+- **Conditional Formatting**
+- **Data Validation**
+- **Advanced Filtering**
+- **Sorting**
+- **Dynamic Formulas**
+- **KPI Cards**
+- **Dashboard Visualization**
+
+---
+
+## 🔍 Business Insights
+
+The dashboard helps identify:
+
+- Total financial exposure
+- Outstanding invoice amounts
+- Payment performance
+- Overdue invoices
+- High-risk invoices
+- Critical financial risks
+- Customer payment trends
+
+---
+
+## 🚀 Project Outcome
+
+This project demonstrates how **Microsoft Excel can be used as a Data Analytics and Business Intelligence tool** to transform raw financial data into an interactive dashboard and actionable business insights.
+
+---
+
+## 👩‍💻 Author
+
+**Priyadharshini**
+
+**B.Tech Information Technology**
+
+**Data Analytics Portfolio**
+
+**Academic Year: 2026**
+
+---
